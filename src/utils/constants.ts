@@ -1,0 +1,1 @@
+export const COLOR_API_BASE = 'https://www.thecolorapi.com/scheme'
